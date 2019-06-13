@@ -1,0 +1,7 @@
+{
+  "appId": "com.demoapp.training",
+  "appName": "hehe",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
